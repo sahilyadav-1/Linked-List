@@ -20,7 +20,6 @@ This repository contains programming questions based on Linked List.
 18) Rotate List: https://leetcode.com/problems/rotate-list/
 19) (Trees) Populate next right pointers in each node: https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 20) Next Greater element in LL: https://leetcode.com/problems/next-greater-node-in-linked-list/
-21) Delete n nodes after m nodes: https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/
-22) Merge in-between LL: https://leetcode.com/problems/merge-in-between-linked-lists/
-23) Find min/max number between Critical points: https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/
-24) Merge Nodes in between zeroes: https://leetcode.com/problems/merge-nodes-in-between-zeros/
+21) Merge in-between LL: https://leetcode.com/problems/merge-in-between-linked-lists/
+22) Find min/max number between Critical points: https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/
+23) Merge Nodes in between zeroes: https://leetcode.com/problems/merge-nodes-in-between-zeros/
