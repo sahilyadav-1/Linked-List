@@ -11,7 +11,7 @@ This repository contains programming questions based on Linked List.
 8) Remove Duplicates from Sorted or Unsorted LL: https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1/
 9) Sort 0’s, 1’s and 2’s using LL: https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1
 10) Palindrome LL: https://leetcode.com/problems/palindrome-linked-list/
-11) Add 1 to LL:https://www.geeksforgeeks.org/add-1-number-represented-linked-list/
+11) Add 1 to LL: https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/0
 12) Clone LL with Random Pointer: https://leetcode.com/problems/copy-list-with-random-pointer/
 13) Merge Sort in LL: https://leetcode.com/problems/merge-two-sorted-lists/
 14) Flatten a Linked List:https://www.geeksforgeeks.org/flattening-a-linked-list/
