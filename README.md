@@ -18,8 +18,7 @@ This repository contains programming questions based on Linked List.
 15) Print Kth Node from end of LL: https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/
 16) Intersection point of LL: https://leetcode.com/problems/intersection-of-two-linked-lists/
 17) (Heap) Merge K sorted List:https://leetcode.com/problems/merge-k-sorted-lists/
-18) (Trees) Populate next right pointers in each node: https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
-19) Next Greater element in LL: https://leetcode.com/problems/next-greater-node-in-linked-list/
-20) Merge in-between LL: https://leetcode.com/problems/merge-in-between-linked-lists/
-21) Find min/max number between Critical points: https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/
-22) Merge Nodes in between zeroes: https://leetcode.com/problems/merge-nodes-in-between-zeros/
+18) Next Greater element in LL: https://leetcode.com/problems/next-greater-node-in-linked-list/
+19) Merge in-between LL: https://leetcode.com/problems/merge-in-between-linked-lists/
+20) Find min/max number between Critical points: https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/
+21) Merge Nodes in between zeroes: https://leetcode.com/problems/merge-nodes-in-between-zeros/
