@@ -6,7 +6,8 @@ This repository contains programming questions based on Linked List.
 4) Reverse LL in k groups: https://leetcode.com/problems/reverse-nodes-in-k-group/
 5) Rotate List: https://leetcode.com/problems/rotate-list/
 6) Remove zero sum consecutive nodes: https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
-7) Detect and Delete loop from LL: https://leetcode.com/problems/linked-list-cycle-ii/
+7) Detect and Delete loop from LL: https://leetcode.com/problems/linked-list-cycle-ii/ 
+   https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1
 8) Remove Duplicates from Sorted or Unsorted LL: https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1/
 9) Sort 0’s, 1’s and 2’s using LL: https://leetcode.com/problems/sort-colors/
 10) Palindrome LL: https://leetcode.com/problems/palindrome-linked-list/
