@@ -9,7 +9,7 @@ This repository contains programming questions based on Linked List.
 7) Detect and Delete loop from LL: https://leetcode.com/problems/linked-list-cycle-ii/ 
    https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1
 8) Remove Duplicates from Sorted or Unsorted LL: https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1/
-9) Sort 0’s, 1’s and 2’s using LL: https://leetcode.com/problems/sort-colors/
+9) Sort 0’s, 1’s and 2’s using LL: https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1
 10) Palindrome LL: https://leetcode.com/problems/palindrome-linked-list/
 11) Add 1 to LL:https://www.geeksforgeeks.org/add-1-number-represented-linked-list/
 12) Clone LL with Random Pointer: https://leetcode.com/problems/copy-list-with-random-pointer/
